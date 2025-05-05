@@ -3262,7 +3262,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" ""
 			(at 102.87 102.108 90)
 			(effects
 				(font
@@ -3626,7 +3626,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical"
 			(at 137.16 58.42 0)
 			(effects
 				(font
@@ -3865,7 +3865,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" ""
 			(at 116.84 99.568 90)
 			(effects
 				(font
@@ -4214,7 +4214,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" ""
 			(at 187.96 81.788 90)
 			(effects
 				(font
@@ -4489,7 +4489,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" ""
 			(at 260.858 86.36 90)
 			(effects
 				(font
@@ -4540,6 +4540,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "ba12eda7-727e-40fd-8c71-52d5b6f6aee8")
 		(property "Reference" "#FLG03"
 			(at 262.89 132.715 0)
@@ -4551,7 +4552,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 257.81 135.636 0)
+			(at 265.43 132.0799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4965,7 +4966,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_MELF_Handsoldering"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 76.2 74.93 0)
 			(effects
 				(font
